@@ -1,0 +1,16 @@
+Debug/
+Release/
+.idea/
+cmake-build-debug/
+cmake-build-release/
+*.suo
+*.user
+*.ncb
+*.aps
+*.rar
+*.zip
+*.log
+*.tzt
+
+.vs/
+ipch/
